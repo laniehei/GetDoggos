@@ -1,0 +1,1 @@
+If you're down and need some cheering up, click the button on your webpage and be graced with many photos of dogs obtained directly from Reddit/r/aww. I'm not responsible for any photos that appear that aren't dogs. This exercise was initially performed in Brian Holt's Intro to Web Development Workshop through Frontend Masters. 
